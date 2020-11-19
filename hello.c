@@ -1,0 +1,3 @@
+void funcHello(){
+  printf("hi");
+}
